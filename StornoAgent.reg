@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\StornoAgent\Parameters]
+"Application"="C:\\Program Files (x86)\\Java\\jdk1.8.0_65\\bin\\javaw.exe"
+"AppDirectory"="C:\\Program Files (x86)\\StornoAgent"
+"AppParameters"="-jar StornoAgent.jar"
